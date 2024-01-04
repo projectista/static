@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/projectista/static/blob/main/logo/projectista.png">
+</p>
+
 # Projectista static file
 
 This repository contains static files used in the `Projectista` ecosystem (i.e. git repositories)

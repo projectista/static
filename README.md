@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/projectista/static/blob/main/logo/projectista.png">
+  <img src="https://github.com/projectista/static/blob/main/logo/projectista.png?v=2">
 </p>
 
 This repository contains static files used in the `Projectista` ecosystem (i.e. git repositories)
